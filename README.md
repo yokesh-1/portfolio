@@ -20,6 +20,11 @@ A personal portfolio showcasing AI-powered applications, full-stack projects, te
 - JavaScript
 - SVG Icons
 
+## UI 
+
+<img width="1892" height="939" alt="Screenshot from 2026-11-10 21-34-14" src="https://github.com/user-attachments/assets/d12e22f1-7dd1-4824-bf97-55b885be4d90" />
+
+
 ## 🚀 Getting Started
 
 ```bash
